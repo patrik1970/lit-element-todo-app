@@ -5,6 +5,10 @@ This is the starting point for a tutorial series teaching you how to build an ap
 You can find the text and video tutorials here:
 https://vaadin.com/tutorials/lit-element
 
+https://www.youtube.com/watch?v=UcCsGZDCw-Q (lit-element part 1, 8 min)
+
+https://www.youtube.com/watch?v=s6P3R-J0IiI (lit-element part 2, 24 min)
+
 ## Start 
 npm install
 npm run dev
