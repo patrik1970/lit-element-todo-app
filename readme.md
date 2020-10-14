@@ -5,11 +5,20 @@ This is the starting point for a tutorial series teaching you how to build an ap
 You can find the text and video tutorials here:
 https://vaadin.com/tutorials/lit-element
 
-https://www.youtube.com/watch?v=UcCsGZDCw-Q (lit-element part 1, 8 min)
+LitElement Part 1 [https://www.youtube.com/watch?v=UcCsGZDCw-Q](https://www.youtube.com/watch?v=UcCsGZDCw-Q)
 
-https://www.youtube.com/watch?v=s6P3R-J0IiI (lit-element part 2, 24 min)
+LitElement Part 2 [https://www.youtube.com/watch?v=s6P3R-J0IiI](https://www.youtube.com/watch?v=s6P3R-J0IiI)
 
-## Start 
-npm install
-npm run dev
-look at http://localhost:8080/
+## Getting Started
+
+To get started, first install all the necessary dependencies.
+```
+> npm install
+```
+
+Run an initial webpack build.
+```
+> npm run dev
+```
+
+To view your project, go to: [http://localhost:8000/](http://localhost:8000/)
